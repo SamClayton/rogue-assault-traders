@@ -1,0 +1,17 @@
+name='Blackjack'
+image='blackjack.gif'
+description='The objective of BlackJack is for a player to come as close to 21 without going over, while still having a higher number than the dealer.'
+casino_link='casino_blackjack_start.php'
+online_status='Y'
+
+name='Smugglers Den Bar'
+image='smuggler.gif'
+description='Welcome to the Smugglers Den where you can trade information with anyone who stops by.  Fights between customers will be stopped with deadly force.'
+casino_link='casino_forums.php'
+online_status='Y'
+
+name='Exit'
+image='exit.gif'
+description='Exit the Casino'
+casino_link='main.php'
+online_status='Y'

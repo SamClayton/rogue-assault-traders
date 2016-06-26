@@ -1,0 +1,36 @@
+
+<style type="text/css">
+<!--
+body             { font-family: Verdana, Arial, sans-serif; font-size: x-small;}
+a.dis            { text-decoration:none; font-size: 10px; font-family: verdana; color:#ff0000; font-weight:bold;}
+a.dis:hover      { text-decoration:none; font-size: 10px; font-family: verdana; color:#00ff00; font-weight:bold;}
+a.mnu            { text-decoration:none; font-size: 10px; font-family: verdana; color:#ff0000; font-weight:bold;}
+a.mnu:hover      { text-decoration:none; font-size: 10px; font-family: verdana; color:#00ff00; font-weight:bold;}
+div.mnu          { text-decoration:none; font-size: 10px; font-family: verdana; color:#ff0000; font-weight:bold;}
+span.mnu         { text-decoration:none; font-size: 10px; font-family: verdana; color:#ff0000; font-weight:bold;}
+table.dis        { text-decoration:none; font-size: 10px; font-family: verdana; color:#ff0000; font-weight:bold;}
+td.footer        { color: #ff0000; font-size: xx-small;} 
+.faderlines      { background-color:#000000;}
+.headlines       { text-decoration:none; font-size:10px; font-family: Verdana, Arial, sans-serif; font-weight:bold; color:#ff0000;}
+.headlines:hover { text-decoration:none; color:#00ff00;}
+.nav             { text-decoration: none; } 
+.nav:link        { text-decoration: none; color: #ff0000;} 
+.nav:visited     { text-decoration: none; color: #00ff00;} 
+.nav:hover       { text-decoration: none; color: #00ff00;} 
+.portcosts1      { width:15em;border-style:none;font-family: verdana;font-size:14px;background-color:#000000;color:#ff0000;text-align:right;}
+.portcosts_sm1      { width:2em;border-style:none;font-family: verdana;font-size:12px;background-color:#000000;color:#ff0000;text-align:right;FONT-WEIGHT: bold}
+.portcosts2      { width:15em;border-style:none;font-family: verdana;font-size:14px;background-color:#000000;color:#ff0000;text-align:right;}
+.portcosts_sm2      { width:2em;border-style:none;font-family: verdana;font-size:12px;background-color:#000000;color:#ff0000;text-align:right;FONT-WEIGHT: bold}
+.portcosts3      { width:3em;border-style:none;font-family: verdana;font-size:14px;background-color:#000000;color:#ff0000;text-align:right;}
+.portcosts4      { width:7em;border-style:none;font-family: verdana;font-size:14px;background-color:#000000;color:#ff0000;text-align:right;}
+.portcosts5      { width:7em;border-style:none;font-family: verdana;font-size:14px;background-color:#000000;color:#ff0000;text-align:right;}
+.rsform          { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #ff0000; background-color:#000000;}
+TEXTAREA.shoutbox  { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #ff0000; background-color:#000000;}
+.shoutform          { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #ff0000; background-color:#000000;}
+TD.nav_title_12 {FONT-FAMILY: Arial; FONT-SIZE: 12px; COLOR: #ff0000; FONT-WEIGHT: none}
+TD.nav_title_14b {FONT-FAMILY: Arial; FONT-SIZE: 14px; COLOR: #ff0000; FONT-WEIGHT: bold}
+TD.nav_title_16b {FONT-FAMILY: Arial; FONT-SIZE: 16px; COLOR: #ff0000; FONT-WEIGHT: bold}
+font.title         {BACKGROUND: none; COLOR: #ff0000; FONT-SIZE: 14px; FONT-FAMILY: Arial; TEXT-DECORATION: none; FONT-WEIGHT: bold}
+td                { font-size: 12px; color: #ff0000; font-family: verdana; }
+-->
+</style>

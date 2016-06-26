@@ -1,0 +1,5 @@
+name = "Alien Assault Traders Menu Dropdown Default"
+author = "Tarnus"
+authoremail = ""
+authorwebsite = "http://www.aatraders.com"
+description = "This is the new default Template for Alien Assault Traders. Includes a pull down menu system with hotkeys and is designed to allow you to see everything as best you can without scrolling your page."

@@ -1,0 +1,50 @@
+Finish the following items...
+1   a functioning live chat system in both pop-up and fixed, auto login with login.
+ 
+2   replace all aat graphics with new ones (need original or gnu gpl), change all "Fed, federation" entries to "Mornoc Alliance", "kabal" to "Mornoc Hunter", independant to ??? these need better ai as well. change all "aat" to "rat", all "Alien Assault Traders" to " Rogue Assault Traders", rewrite langauge inc. ie dress them up. 
+
+3   resize local map to 10x10 include "hover to show sector #" also problem: how to make the 10x10 in sector 1 show only Mornoc space, ie safe space? a code snippet? " if link is FROM sector 1 TO sector X:  x=local map sector id  then turns per move = 1 regaurdless of engine tech,  else normal move cost. this is to allow newbies a safe place to start as no SD, or attacking other players allowed. newbies must be allowed to catch up.
+
+4   create a sector flag to indicate if player has "been there" recently, use current tracking, must not over-write other players tracks.
+
+5   realspace move: when encounter sg space, "quiet" skip to next realspace, player must watch the sector #'s to notice sg. also would like to research new map method.. from current point in space, player must select DIRECTION and # of turns to use, need easy to use "nav computer". change "sectors" to "systems"
+
+6   3d map: add new veiws to show current pos, hover for 
+
+7   Add ports visited (port type)
+
+8   develope "player" owned ship storage and repair docks, must be included in the bounty system, but still accessable, tho at increased cost: requires ore, energy, credits TURNS, all in large tho not crippling amounts. also add this function to Mornoc Hunter owned ports.
+
+9   remove genesis device, all planets will be created with the universe, no player created planets: create new item: starbase, need stats rule sets ect, will more or less be a new planet type per say. will be purchased and created at a shipyard, then must move to where ever its wanted or needed (very slow to move), treat as planet for colonists needs, ie population lvls, organics, energy, goods, ore, they do not generate production, there for MUST be resupplied.
+
+10  expand the experience system, change all existing functions to XP for codebase ref.  
+
+11  Purchase base upgrade (cost in credits and turns, realtime as well ?) every 5 average tech levels, each base upgrade gives a +1 bonus 
+
+12  Admin option to keep player from being purged until a certain time, date, or condition 
+
+13  Admin player purge 
+
+14  combat system; id like to change it by scaling down the number of weapons used ie ur ship can carry 100,000 torps ..but realisticly you can only FIRE so many at once, the same for fighters. id like a series of attack phases. at each step the option to continue or flee. Sector D attacks any ship that attacks a planet in the sector.
+
+15  Pirate Raid option in addition to, or instead of ship attack.  Player can try a pirate raid on an enemy ship. Ship being raided does a save check on EWD, engines and sensor/cloak.  Stolen cash can be from 0-50%.  Plus chance to put a spy on the ship. also to possible sabotage to ship while there.
+
+16  Auto Reset option where the game will reset itself when the reset date is reached.  It then stores the top player name in a Hall of Fame database and adds a Hall of Fame button to the login.
+
+17 Add realspace link to nearest sector.
+
+18 rewrite bounty complete  must be fair but costly...id like "Lose Turns" as penalty, along with a reduction in max turns til paid. also want the person who was attacked to "collect" as per the current fed collection. ie they can retaliate on the agressor. also, mid-combat: if no bounties from the combat start, then no bounties from CURRENT combat, reguardless of score changes. also add to planets, and 24 hr RETAKE GRACE period.
+
+19 Mornoc Hunter Contracts.  Players can take out contracts against players who are higher than them in score.  The Mornoc Hunter will then try to hunt down the player and players planets until the player is killed by the Mornoc Hunter, or til X# credits collected (in damage of course)
+
+20 Rewrite the Kabal routine. rename to "Mornoc Hunter"
+
+21 Mornoc Alliance attacks players who have Mornoc Alliance bounties that are too old.  The fes ship attacks the players planets first and takes them.  The value of the planet counts towards paying off the Mornoc Alliance bounty.  The Mornoc Alliance ship stops attacking player and player planets when the bounty is paid in full.
+
+22 Mornoc Alliance Planet Auction where players can bid on planets the Mornoc Alliance has captured.  The winner of the auction gets the planet.
+
+23 Add Risk like spiral arm wars where each spiral arm is a region of space a team has to control.  When a team owns enough sectors in the arm they control the arm.  When a team controls ALL arms of the galaxy they win the game.
+
+24 Add option where an arm of the galaxy is controlled by the Mornoc Hunter and the Mornoc Hunters attack any planets or ships in that arm they do not own.
+
+25. Add option to build research base to planets for building new ship class, weapons and defenses.

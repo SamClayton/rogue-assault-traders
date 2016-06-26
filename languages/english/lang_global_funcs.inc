@@ -1,0 +1,31 @@
+<?php
+$l_global_mmenu          ="Click <A HREF=main.php>here</A> to return to the main menu.";
+$l_global_mlogin         ="Click <A HREF=index.php>here</A> to return to the login screen.";
+$l_global_needlogin      ="You need to log in, click <A HREF=index.php>here</A>.";
+$l_global_died           ="Player is DEAD! <a href=/log.php>Here</a>'s what happened<BR><BR>Better Luck Next Time!";
+$l_global_warzone        ="Zone is now a War Zone!";
+$l_global_nzone          ="Zone is a neutral zone.";
+$l_global_team           ="Zone now belongs to team";
+$l_global_player         ="Zone now belongs to player";
+$l_global_nochange       ="Zone ownership didn't change";
+$l_insignia[0]           = "1c.png";
+$l_insignia[1]           = "2c.png";
+$l_insignia[2]           = "3c.png";
+$l_insignia[3]           = "4c.png";
+$l_insignia[4]           = "o-1.png";
+$l_insignia[5]           = "o-2.png";
+$l_insignia[6]           = "o-3.png";
+$l_insignia[7]           = "o-4.png";
+$l_insignia[8]           = "o-5.png";
+$l_insignia[9]           = "o-6.png";
+$l_insignia[10]          = "o-7.png";
+$l_insignia[11]          = "o-8.png";
+$l_insignia[12]          = "o-9.png";
+$l_insignia[13]          = "o-10.png";
+$l_insignia[14]          = "o-11.png";
+$l_insignia[15]          = "o-12.png";
+$l_insignia[16]          = "o-13.png";
+$l_insignia[17]          = "o-14.png";
+$l_insignia[18]          = "o-15.png";
+$l_insignia[19]          = "o-16.png";
+?>
